@@ -1,0 +1,63 @@
+.First-section{
+ background-color: #1F2937;
+ color: white;
+ margin: 0px;
+ height: 25%;
+ width: 1035px;
+ padding-left: 210px;
+ padding-right: 50px;
+ padding-top:20px;
+ padding-bottom: 130px;
+ margin: -10px;
+ font-family: Arial;
+}
+
+.First-section .links .Logo{
+ font-size: 24px;
+ padding-bottom: 120px;
+ padding-right:445px;
+ display:flex;
+ justify-content: start;
+}
+
+.First-section .content{
+ display:flex;
+}
+
+.First-section .content .bold{
+ display: flex;
+ flex-direction:column;
+}
+
+.First-section .content .bold .text{
+ font-size: 48px;
+ width:400px;
+}
+
+.First-section .content .image{
+ padding: 100px 150px;
+ background-color:grey;
+ width: 250px;
+}
+
+.First-section .content .bold .Text{
+ font-size:18px;
+ width: 480px;
+}
+
+.First-section .bold .SignUp{
+ font-size: 18px;
+ background-color: #0000ff;
+ margin-top: 10px;
+ padding: 10px 25px;
+ width: 100px;
+ text-align: center;
+ border-radius: 10px;
+}
+
+.First-section .links{
+ font-size: 18px;
+ display:flex;
+ justify-content:end;
+ gap:20px;
+}
